@@ -1,0 +1,38 @@
+Waf: Entering directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Leaving directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.029s)
+Sink 0	TotalRx: 1.45363Mb	Goodput: 0.0242272Mbps
+Sink 1	TotalRx: 1.62944Mb	Goodput: 0.0271573Mbps
+Sink 2	TotalRx: 1.71091Mb	Goodput: 0.0285152Mbps
+Sink 3	TotalRx: 1.56083Mb	Goodput: 0.0260139Mbps
+Sink 4	TotalRx: 1.54797Mb	Goodput: 0.0257995Mbps
+Sink 5	TotalRx: 1.37216Mb	Goodput: 0.0228693Mbps
+Sink 6	TotalRx: 1.43648Mb	Goodput: 0.0239413Mbps
+Sink 7	TotalRx: 1.4279Mb	Goodput: 0.0237984Mbps
+Sink 8	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 9	TotalRx: 1.41075Mb	Goodput: 0.0235125Mbps
+Sink 10	TotalRx: 1.3936Mb	Goodput: 0.0232267Mbps
+Sink 11	TotalRx: 1.41504Mb	Goodput: 0.023584Mbps
+Sink 12	TotalRx: 1.52653Mb	Goodput: 0.0254421Mbps
+Sink 13	TotalRx: 1.43219Mb	Goodput: 0.0238699Mbps
+Sink 14	TotalRx: 1.33786Mb	Goodput: 0.0222976Mbps
+Sink 15	TotalRx: 1.18349Mb	Goodput: 0.0197248Mbps
+Sink 16	TotalRx: 1.18778Mb	Goodput: 0.0197963Mbps
+Sink 17	TotalRx: 1.39789Mb	Goodput: 0.0232981Mbps
+Sink 18	TotalRx: 1.49222Mb	Goodput: 0.0248704Mbps
+Sink 19	TotalRx: 1.67661Mb	Goodput: 0.0279435Mbps
+Sink 20	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 21	TotalRx: 1.50509Mb	Goodput: 0.0250848Mbps
+Sink 22	TotalRx: 1.43648Mb	Goodput: 0.0239413Mbps
+Sink 23	TotalRx: 1.53082Mb	Goodput: 0.0255136Mbps
+Sink 24	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 25	TotalRx: 1.37216Mb	Goodput: 0.0228693Mbps
+Sink 26	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 27	TotalRx: 1.40646Mb	Goodput: 0.0234411Mbps
+Sink 28	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 29	TotalRx: 1.38502Mb	Goodput: 0.0230837Mbps
+Sink 30	TotalRx: 1.35501Mb	Goodput: 0.0225835Mbps
+Sink 31	TotalRx: 1.33357Mb	Goodput: 0.0222261Mbps
+
+Totals	TotalRx: 46.036Mb	Goodput: 0.767266Mbps

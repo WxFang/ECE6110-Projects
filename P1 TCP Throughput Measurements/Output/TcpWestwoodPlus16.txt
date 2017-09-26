@@ -1,0 +1,22 @@
+Waf: Entering directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Leaving directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.917s)
+Sink 0	TotalRx: 5.42003Mb	Goodput: 0.0903339Mbps
+Sink 1	TotalRx: 2.85581Mb	Goodput: 0.0475968Mbps
+Sink 2	TotalRx: 2.79578Mb	Goodput: 0.0465963Mbps
+Sink 3	TotalRx: 2.81722Mb	Goodput: 0.0469536Mbps
+Sink 4	TotalRx: 2.78291Mb	Goodput: 0.0463819Mbps
+Sink 5	TotalRx: 2.75718Mb	Goodput: 0.0459531Mbps
+Sink 6	TotalRx: 2.90726Mb	Goodput: 0.0484544Mbps
+Sink 7	TotalRx: 3.03162Mb	Goodput: 0.0505269Mbps
+Sink 8	TotalRx: 3.16883Mb	Goodput: 0.0528139Mbps
+Sink 9	TotalRx: 3.31034Mb	Goodput: 0.0551723Mbps
+Sink 10	TotalRx: 3.3961Mb	Goodput: 0.0566016Mbps
+Sink 11	TotalRx: 3.13024Mb	Goodput: 0.0521707Mbps
+Sink 12	TotalRx: 3.33178Mb	Goodput: 0.0555296Mbps
+Sink 13	TotalRx: 3.50758Mb	Goodput: 0.0584597Mbps
+Sink 14	TotalRx: 3.57619Mb	Goodput: 0.0596032Mbps
+Sink 15	TotalRx: 3.37037Mb	Goodput: 0.0561728Mbps
+
+Totals	TotalRx: 52.1592Mb	Goodput: 0.869321Mbps

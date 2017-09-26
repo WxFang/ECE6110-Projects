@@ -1,0 +1,11 @@
+Build Point-to-point Topologies:
+
+1. create the network nodes
+
+2. install an internet stack in each node
+
+3. attach one or more network devices to each node and attach the device to the channel
+
+4. create an network interface for each network device
+
+5. assign an IP address to each network interface

@@ -1,0 +1,7 @@
+Waf: Entering directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Waf: Leaving directory `/root/ns3/ns-allinone-3.25/ns-3.25/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.998s)
+Sink 0	TotalRx: 52.1013Mb	Goodput: 0.868355Mbps
+
+Totals	TotalRx: 52.1013Mb	Goodput: 0.868355Mbps
